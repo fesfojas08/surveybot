@@ -1,17 +1,19 @@
-[
-    {
-        "question": "How likely is it that you would product this company to a friend or colleague? 5 being extremely likely and 1 being not likely at all."
-    },
-    {
-        "question": "Overall, how satisfied or dissatisfied are you with our product?"
-    },
-    {
-        "question": "On a scale of 1 - 5 how well do our products meet your needs? 5 being extremely well, 1 being not at all well."
-    },
-    {
-        "question": "On a scale of 1 - 5, how responsive have we been to your questions or concerns about our products? 5 being extremely responsive, 1 being not at all responsive."
-    },
-    {
-        "question": "Do you have any other comments or suggestions?"
-    }
-]
+{
+    listOfQuestions: [
+        {
+            "question": "How likely is it that you would product this company to a friend or colleague? 5 being extremely likely and 1 being not likely at all."
+        },
+        {
+            "question": "Overall, how satisfied or dissatisfied are you with our product?"
+        },
+        {
+            "question": "On a scale of 1 - 5 how well do our products meet your needs? 5 being extremely well, 1 being not at all well."
+        },
+        {
+            "question": "On a scale of 1 - 5, how responsive have we been to your questions or concerns about our products? 5 being extremely responsive, 1 being not at all responsive."
+        },
+        {
+            "question": "Do you have any other comments or suggestions?"
+        }
+    ]
+}
