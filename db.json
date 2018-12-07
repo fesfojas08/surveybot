@@ -1,5 +1,5 @@
 {
-    listOfQuestions: [
+    "listOfQuestions": [
         {
             "question": "How likely is it that you would product this company to a friend or colleague? 5 being extremely likely and 1 being not likely at all."
         },
